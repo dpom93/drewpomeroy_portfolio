@@ -1,6 +1,6 @@
-# drewpomeroy_portfolio
+# Drew Pomeroy - Portfolio
 
-### Projects
+### PROJECTS
 #### R Shiny for Athlete Monitoring
 - [Github Repository](https://github.com/dpom93/RShiny_for_athlete_monitoring/tree/main?tab=readme-ov-file)
 - [Web Application](https://dpomperformance.shinyapps.io/RWalkthrough/)
