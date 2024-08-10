@@ -2,8 +2,6 @@
 
 ### PROJECTS
 #### Project 1: R Shiny for Athlete Monitoring
-*Description*
-
 This project involves the creation of a dynamic Shiny application dashboard designed specifically for sport scientists, practitioners, and coaches to monitor and optimize athlete performance. The dashboard focuses on physical assessments conducted with the Output Sports IMU driving value through *Athlete Performance Benchmarking* and *Automated Training Programs*. 
 - [Github Repository](https://github.com/dpom93/RShiny_for_athlete_monitoring/tree/main?tab=readme-ov-file)
 - [Web Application](https://dpomperformance.shinyapps.io/RWalkthrough/)
