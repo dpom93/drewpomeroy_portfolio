@@ -1,5 +1,12 @@
 # drewpomeroy_portfolio
 
+### Projects
+#### R Shiny for Athlete Monitoring
+
+[Github Repository](https://github.com/dpom93/RShiny_for_athlete_monitoring/tree/main?tab=readme-ov-file)
+
+[Web Application](https://dpomperformance.shinyapps.io/RWalkthrough/)
+
 ### Education
 Master of Business Administration (M.B.A), Sports - San Diego State University (2017 - 2018)
 
@@ -21,21 +28,3 @@ Director of Baseball Operations - University of San Diego Athletics (Oct 2017 - 
 Baseball Operations + Corporate Partnerships Coordinator - Reno Aces Baseball Club (Jan 2014 - Dec 2016)
 
 Sports Marketing Intern - University of Nevada Reno Athletics (Aug 2014 - May 2016)
-
-### Projects
-R Shiny for Athlete Monitoring
-
-[Github Repository](https://github.com/dpom93/RShiny_for_athlete_monitoring/tree/main?tab=readme-ov-file)
-
-[Web Application](https://dpomperformance.shinyapps.io/RWalkthrough/)
-
-
-Description of project
-
-Image of Project
-![](images/...)
-
-
-Project 2
-
-Description of project
