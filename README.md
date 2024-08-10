@@ -2,7 +2,6 @@
 
 ### Education
 Master of Business Administration (M.B.A), Sports - San Diego State University (2017 - 2018)
-
 Bachelor of Science, Business Management - University of Nevada, Reno (2013 - 2016)
 
 ### Work Experience
