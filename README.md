@@ -2,11 +2,13 @@
 
 ### PROJECTS
 #### Project 1: R Shiny for Athlete Monitoring
-This project involves the creation of a dynamic Shiny application dashboard designed specifically for sport scientists, practitioners, and coaches to monitor and optimize athlete performance. The dashboard focuses on physical assessments conducted with the Output Sports IMU, covering key metric categories such as Range of Motion (ROM), Lower Body Power, Upper Body Power, and Rotational Power.
+This project involves the creation of a dynamic Shiny application dashboard designed specifically for sport scientists, practitioners, and coaches to monitor and optimize athlete performance. The dashboard focuses on physical assessments conducted with the Output Sports IMU, covering key metric categories such as Range of Motion (ROM), Lower Body Power, Upper Body Power, and Rotational Power. 
 
-*Athlete Performance Benchmarking:* Each athlete's scores are calculated as percentiles relative to their age group, enabling easy identification of strengths and areas for improvement. This comparative analysis helps end-users quickly assess how an athlete stacks up against peers in their age group.
+*The Value Proposition:* 
+- *Athlete Performance Benchmarking:* helps end-users quickly assess how an athlete stacks up against peers in their age group.
+- *Automated Training Program Suggestions:* This automation allows strength coaches to spend less time analyzing data and more time tailoring individualized training programs.
 
-*Automated Training Program Suggestions:* The dashboard also calculates ratios between movement, strength, power, and velocity, which guide the suggested focus for the athlete's training program. This automation allows strength coaches to spend less time analyzing data and more time tailoring individualized training programs. 
+*Project Links*
 - [Github Repository](https://github.com/dpom93/RShiny_for_athlete_monitoring/tree/main?tab=readme-ov-file)
 - [Web Application](https://dpomperformance.shinyapps.io/RWalkthrough/)
 - [YouTube Playlist: Learning RStudio + Shinyapps.io for Athlete Monitoring](https://www.youtube.com/playlist?list=PLnCoHDFUN2utbjuj24WKOYhclndRsXBmV)
