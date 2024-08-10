@@ -2,11 +2,14 @@
 
 ### Education
 Sports MBA - San Diego State University
+
 Business Management - University of Nevada, Reno
 
 ### Work Experience
 Applied Performance Specialist - Kitman Labs
+
 Director, Sports Performance - USA Baseball
+
 Assistant Director, Prospect Development Pipeline - USA Baseball
 
 ### Projects
