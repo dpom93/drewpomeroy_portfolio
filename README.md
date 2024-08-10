@@ -5,12 +5,12 @@
 - [Github Repository](https://github.com/dpom93/RShiny_for_athlete_monitoring/tree/main?tab=readme-ov-file)
 - [Web Application](https://dpomperformance.shinyapps.io/RWalkthrough/)
 
-### Education
+### EDUCATION
 Master of Business Administration (M.B.A), Sports - San Diego State University (2017 - 2018)
 
 Bachelor of Science, Business Management - University of Nevada, Reno (2013 - 2016)
 
-### Work Experience
+### WORK EXPERIENCE
 Applied Performance Specialist - Kitman Labs (Apr 2022 - Current)
 
 Head of Sports Science - Five Tool Connection (Apr 2022 - Current)
