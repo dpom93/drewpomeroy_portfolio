@@ -4,6 +4,7 @@
 #### Project 1: R Shiny for Athlete Monitoring
 - [Github Repository](https://github.com/dpom93/RShiny_for_athlete_monitoring/tree/main?tab=readme-ov-file)
 - [Web Application](https://dpomperformance.shinyapps.io/RWalkthrough/)
+- [YouTube Playlist: Learning RStudio + Shinyapps.io for Athlete Monitoring](https://www.youtube.com/playlist?list=PLnCoHDFUN2utbjuj24WKOYhclndRsXBmV)
 
 ### EDUCATION
 - Master of Business Administration (M.B.A), Sports - San Diego State University (2017 - 2018)
