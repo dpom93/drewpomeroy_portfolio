@@ -1,14 +1,23 @@
 # drewpomeroy_portfolio
-Analytics Portfolio
 
-# Project 1 - R Shiny for Athlete Monitoring (link repository here)
+### Education
+Sports MBA - San Diego State University
+Business Management - University of Nevada, Reno
 
-## Description of project
+### Work Experience
+Applied Performance Specialist - Kitman Labs
+Director, Sports Performance - USA Baseball
+Assistant Director, Prospect Development Pipeline - USA Baseball
 
-### Image of Project
+### Projects
+Project 1 - R Shiny for Athlete Monitoring (link repository here)
+
+Description of project
+
+Image of Project
 ![](images/...)
 
 
-# Project 2
+Project 2
 
-### Description of project
+Description of project
