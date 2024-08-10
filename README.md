@@ -23,7 +23,10 @@ Baseball Operations + Corporate Partnerships Coordinator - Reno Aces Baseball Cl
 Sports Marketing Intern - University of Nevada Reno Athletics (Aug 2014 - May 2016)
 
 ### Projects
-[Project 1 - R Shiny for Athlete Monitoring](https://github.com/dpom93/RShiny_for_athlete_monitoring/tree/main?tab=readme-ov-file)
+R Shiny for Athlete Monitoring
+[Github Repository](https://github.com/dpom93/RShiny_for_athlete_monitoring/tree/main?tab=readme-ov-file)
+[Web Application](https://dpomperformance.shinyapps.io/RWalkthrough/)
+
 
 Description of project
 
