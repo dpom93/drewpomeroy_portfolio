@@ -2,7 +2,7 @@
 
 ### Education
 Sports MBA - San Diego State University
-
+br()
 Business Management - University of Nevada, Reno
 
 ### Work Experience
