@@ -10,6 +10,7 @@ This project involves the creation of a dynamic Shiny application dashboard desi
 #### Project 2: Tableau Dashboard for Garmin Activities
 Since 2019, I have lost 40 pounds, and during that time, I have religiously worn a Garmin watch. This project aims to analyze the activities and trends that have contributed to my fitness achievements over the years, identifying what has worked best to reach this fitness level. Dashboard 1 draws insights into Yearly and Monthly Activity Overview (2019 - 2024), and Dashboard 2 (found in the navigation section) delves into a more granular analysis, focusing on weekly trends within the selected year.
 - [Tableau Garmin Dashboard](https://public.tableau.com/app/profile/drew.pomeroy/viz/GarminDashboardProject/Dashboard1)
+- [Overview](https://github.com/dpom93/garmin_tableau_project)
 
 ### EDUCATION
 - **Master of Business Administration (M.B.A)**, Sports - San Diego State University (2017 - 2018)
