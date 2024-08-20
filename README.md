@@ -18,7 +18,7 @@ Since 2019, I have lost 40 pounds, and during that time, I have religiously worn
 
 ### WORK EXPERIENCE
 - **Applied Performance Specialist** - Kitman Labs (Apr 2022 - Current)
-- **Head of Sports Science** - Five Tool Connection (Apr 2022 - Current)
+- **Sports Scientist** - Five Tool Connection (Apr 2022 - Current)
 - **Director, Sports Performance** - USA Baseball (Aug 2020 - Apr 2022)
 - **Assistant Director, Prospect Development Pipeline** - USA Baseball (Apr 2019 - Aug 2020)
 - **Partnership Services Coordinator** - Mountain West Sports Properties, Learfield (Oct 2018 - Mar 2019)
