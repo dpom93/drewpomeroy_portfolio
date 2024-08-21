@@ -9,9 +9,7 @@ This project involves the creation of a dynamic Shiny application dashboard desi
 - [YouTube Playlist: Learning RStudio + Shinyapps.io for Athlete Monitoring](https://www.youtube.com/playlist?list=PLnCoHDFUN2utbjuj24WKOYhclndRsXBmV)
 
 #### Project 2: Tableau Dashboard for Garmin Activities
-Since 2019, I have lost 40 pounds, and during that time, I have religiously worn a Garmin watch. 
-
-This project aims to analyze the activities and trends that have contributed to my fitness achievements over the years, identifying what has worked best to reach this fitness level. Overview Dashboard draws insights into Yearly and Monthly Activity Overview (2019 - 2024), Weekly Insights (found in the navigation section) delves into a more granular trends, focusing on weekly trends within the selected year, and Conclusions analyzes heart rate responses, difficulty in mountain biking environments, and correlations between heart rate and calories.
+Since 2019, I have lost 40 pounds, and during that time, I have religiously worn a Garmin watch. This project aims to analyze the activities and trends that have contributed to my fitness achievements over the years, identifying what has worked best to reach this fitness level - analyzing heart rate responses, difficulty in mountain biking environments, and correlations between heart rate and calories.
 - [Tableau Garmin Dashboard](https://public.tableau.com/app/profile/drew.pomeroy/viz/GarminDashboardProject/Dashboard1)
 - [Overview](https://github.com/dpom93/garmin_tableau_project)
 
