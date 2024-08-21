@@ -4,10 +4,12 @@
 ---
 #### Project 1: R Shiny for Athlete Monitoring
 This project involves the creation of a dynamic Shiny application dashboard designed specifically for sport scientists, practitioners, and coaches to monitor and optimize athlete performance. The dashboard focuses on physical assessments conducted with the Output Sports IMU driving value through <ins>*Athlete Performance Benchmarking*</ins> and <ins>*Automated Training Programs*</ins>. 
+
 [Github Repository](https://github.com/dpom93/RShiny_for_athlete_monitoring/tree/main?tab=readme-ov-file) | [Web Application](https://dpomperformance.shinyapps.io/RWalkthrough/) | [YouTube Playlist: Learning RStudio + ShinyApps for Athlete Monitoring](https://www.youtube.com/playlist?list=PLnCoHDFUN2utbjuj24WKOYhclndRsXBmV)
 
 #### Project 2: Tableau Dashboard for Garmin Activities
 Since 2019, I have lost 40 pounds, and during that time, I have religiously worn a Garmin watch. This project aims to analyze the activities and trends that have contributed to my fitness achievements over the years, identifying what has worked best to reach this fitness level - analyzing heart rate responses, difficulty in mountain biking environments, and correlations between heart rate and calories.
+
 [Tableau Garmin Dashboard](https://public.tableau.com/app/profile/drew.pomeroy/viz/GarminDashboardProject/Dashboard1) | [Overview](https://github.com/dpom93/garmin_tableau_project)
 
 ### EDUCATION
