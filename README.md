@@ -4,6 +4,7 @@
 ---
 ### Project 1: SQL Project Data Job Analysis 
 Focusing on data analyst roles, this project explores top paying jobs, in-demand skills, and where high demand meets high salary in data analytics.
+
 [Github Repository](https://github.com/dpom93/SQL_Project_Data_Job_Analysis)
 
 #### Project 2: R Shiny for Athlete Monitoring
