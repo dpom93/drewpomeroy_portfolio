@@ -2,12 +2,16 @@
 
 ### PROJECTS
 ---
-#### Project 1: R Shiny for Athlete Monitoring
+### Project 1: SQL Project Data Job Analysis 
+Focusing on data analyst roles, this project explores top paying jobs, in-demand skills, and where high demand meets high salary in data analytics.
+[Github Repository](https://github.com/dpom93/SQL_Project_Data_Job_Analysis)
+
+#### Project 2: R Shiny for Athlete Monitoring
 This project involves the creation of a dynamic Shiny application dashboard designed specifically for sport scientists, practitioners, and coaches to monitor and optimize athlete performance. The dashboard focuses on physical assessments conducted with the Output Sports IMU driving value through <ins>*Athlete Performance Benchmarking*</ins> and <ins>*Automated Training Programs*</ins>. 
 
 [Github Repository](https://github.com/dpom93/RShiny_for_athlete_monitoring/tree/main?tab=readme-ov-file) | [Web Application](https://dpomperformance.shinyapps.io/RWalkthrough/) | [YouTube Playlist: Learning RStudio + ShinyApps for Athlete Monitoring](https://www.youtube.com/playlist?list=PLnCoHDFUN2utbjuj24WKOYhclndRsXBmV)
 
-#### Project 2: Tableau Dashboard for Garmin Activities
+#### Project 3: Tableau Dashboard for Garmin Activities
 Since 2019, I have lost 40 pounds, and during that time, I have religiously worn a Garmin watch. This project aims to analyze the activities and trends that have contributed to my fitness achievements over the years, identifying what has worked best to reach this fitness level - analyzing heart rate responses, difficulty in mountain biking environments, and correlations between heart rate and calories.
 
 [Overview](https://github.com/dpom93/garmin_tableau_project) | [Tableau Garmin Dashboard](https://public.tableau.com/app/profile/drew.pomeroy/viz/GarminDashboardProject/Dashboard1)
@@ -19,7 +23,8 @@ Since 2019, I have lost 40 pounds, and during that time, I have religiously worn
 
 ### WORK EXPERIENCE
 ---
-- **Applied Performance Specialist** - Kitman Labs (Apr 2022 - Current)
+- **US Operations Team Lead** - Kitman Labs (Jan 2025 - Present)
+- **Applied Performance Specialist** - Kitman Labs (Apr 2022 - Dec 2024)
 - **Sports Scientist** - Five Tool Connection (Apr 2022 - Current)
 - **Director, Sports Performance** - USA Baseball (Aug 2020 - Apr 2022)
 - **Assistant Director, Prospect Development Pipeline** - USA Baseball (Apr 2019 - Aug 2020)
